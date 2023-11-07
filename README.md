@@ -1,6 +1,6 @@
 # mobile-magic
 Mobile detailing company
-    <!-- Potential templates
+    Potential templates
     **Helios
     **Momentum
     **Twenty
@@ -8,4 +8,4 @@ Mobile detailing company
     **Apex
     **Concentric
     **Axiom
-    -->
+    
